@@ -27,7 +27,7 @@
       </a>
     </td>
     <td align="center" height="80">
-      <a href="https://github.com/2besita">
+      <a href="https://github.com/tachyonora">
         <img src="https://avatars.githubusercontent.com/u/223552096?v=4" width="72">
       </a>
     </td>
