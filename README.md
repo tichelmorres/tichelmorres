@@ -27,13 +27,13 @@
       </a>
     </td>
     <td align="center" height="80">
-      <a href="https://github.com/tachyonora">
+      <a href="https://github.com/ochitsudayo">
         <img src="https://avatars.githubusercontent.com/u/223552096?v=4" width="72">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center"><samp>M</samp></td>
-    <td align="center"><samp>E</samp></td>
+    <td align="center"><samp>tmorres</samp></td>
+    <td align="center"><samp>ochitsu</samp></td>
   </tr>
 </table>
