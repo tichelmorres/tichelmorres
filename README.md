@@ -22,18 +22,20 @@
 <table>
   <tr>
     <td align="center" height="80">
-      <a href="https://github.com/tichelmorres">
-        <img src="https://avatars.githubusercontent.com/u/136039085?v=4" width="72">
-      </a>
+      <img src="https://avatars.githubusercontent.com/u/136039085?v=4" width="72">
     </td>
     <td align="center" height="80">
-      <a href="https://github.com/ochitsudayo">
+      <a href="https://github.com/2besita">
         <img src="https://avatars.githubusercontent.com/u/223552096?v=4" width="72">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center"><samp>tmorres</samp></td>
-    <td align="center"><samp>ochitsu</samp></td>
+    <td align="center">
+      <a href="https://github.com/2besita">
+        <samp>2besita</samp>
+      </a>
+    </td>
   </tr>
 </table>
