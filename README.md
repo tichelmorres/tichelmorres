@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/JEiD25e.png" width="350" align="left">
+<img src="sakura.png" width="350" align="left">
 
 <samp>
   <br>
@@ -32,10 +32,6 @@
   </tr>
   <tr>
     <td align="center"><samp>tmorres</samp></td>
-    <td align="center">
-      <a href="https://github.com/2besita">
-        <samp>2besita</samp>
-      </a>
-    </td>
+    <td align="center"><samp>2besita</samp></td>
   </tr>
 </table>
